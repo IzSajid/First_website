@@ -1,9 +1,15 @@
 body{
     text-align: center;
+    background-color: wheat;
 }
 big{
     color: red;
 }
 h1{
     color: green;
+}
+h2{
+    background-color: yellow;
+    margin-right: 35%;
+    margin-left: 35%;
 }
